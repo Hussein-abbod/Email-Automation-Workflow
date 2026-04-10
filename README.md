@@ -1,12 +1,11 @@
 # AI Email Automation Workflow (n8n)
 
-This project contains an n8n workflow that uses an AI Agent (powered by Groq) to manage emails via Telegram. You can ask the AI to read your latest emails or send new ones using natural language in English or Arabic.
+This project contains an n8n workflow that uses an AI Agent (powered by Groq) to manage emails via Telegram. You can ask the AI to read your latest emails or send new ones using 
 
 ## 🚀 Features
 - **AI Agent**: Uses `llama-3.3-70b-versatile` on Groq for intelligent tool selection.
 - **Telegram Integration**: Trigger and control the automation directly from your phone.
 - **Gmail Tools**: Ability to read emails and send emails through Google's APIs.
-- **Multilingual**: Supports English and Arabic.
 
 ## 🛠️ Setup Instructions
 
