@@ -1,0 +1,6 @@
+# n8n
+.n8n/
+node_modules/
+*.log
+.env
+"My workflow.json"
